@@ -192,7 +192,7 @@ python generate_infinitetalk.py \
 
 ```
 GPU_NUM=8
-torchrun --nproc_per_node=$GPU_NUM --standalone generate_multitalk.py \
+torchrun --nproc_per_node=$GPU_NUM --standalone generate_infinitetalk.py \
     --ckpt_dir weights/Wan2.1-I2V-14B-480P \
     --wav2vec_dir 'weights/chinese-wav2vec2-base' \
     --infinitetalk_dir weights/InfiniteTalk/single/infinitetalk.safetensors \
