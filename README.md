@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/logo2.jpg" alt="InfinteTalk" width="540"/>
+  <img src="assets/logo2.jpg" alt="InfinteTalk" width="440"/>
 </p>
 
 <h1>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</h1>
