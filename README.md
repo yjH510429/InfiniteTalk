@@ -2,7 +2,7 @@
 
 
 
-<h1>InfiniteTalk: Audio-driven Video Generation for Spare-Frame Video Dubbing</h1>
+<h1>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</h1>
 
 
 
