@@ -13,7 +13,7 @@
 <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
 
-> **TL; DR:**  InfiniteTalk is an unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
+> **TL; DR:**  InfiniteTalk is an unlimited-length talking video generation​​ that supports video-to-video and image-to-video generation
 
 <p align="center">
   <img src="assets/pipeline.png">
@@ -27,9 +27,18 @@
 
 ## 🔥 Latest News
 
-
 * August 18, 2025: We release the [Technique-Report]() of **InfiniteTalk** 
 * August 18, 2025: We release the [project page]() of **InfiniteTalk** 
+
+
+## ✨ Key Features
+We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework. Given an input video and audio track, InfiniteTalk synthesizes a new video with ​​accurate lip synchronization​​ while ​​simultaneously aligning head movements, body posture, and facial expressions​​ with the audio. Unlike traditional dubbing methods that focus solely on lips, InfiniteTalk enables ​​infinite-length video generation​​ with accurate lip synchronization and consistent identity preservation. Beside, InfiniteTalk can also be used as an image-audio-to-video model with an image and an audio as input. 
+- 💬 ​​Sparse-frame Video Dubbing​​ – Synchronizes not only lips, but aslo head, body, and expressions
+- ⏱️ ​​Infinite-Length Generation​​ – Supports unlimited video duration
+- ✨ ​​Stability​​ – Reduces hand/body distortions compared to MultiTalk
+- 🚀 ​​Lip Accuracy​​ – Achieves superior lip synchronization to MultiTalk
+
+
 
 ## 🌐 Community  Works
 - [ComfyUI]()
@@ -111,15 +120,15 @@ Link through:
 ```
 ### 🔑 Quick Inference
 
-Our model is compatible with both 480P and 720P resolutions. The current code only supports 480P inference. 720P inference requires multiple GPUs.
+Our model is compatible with both 480P and 720P resolutions. 
 > Some tips
 > - Lip synchronization accuracy:​​ Audio CFG works optimally between 3–5. Increase the audio CFG value for better synchronization.
-> - ​​Video clip length:​​ The model was trained on 81-frame videos at 25 FPS. For optimal prompt following performance, generate clips at 81 frames. Generating up to 201 frames is possible, though longer clips might reduce prompt-following performance.
-> - ​​Long video generation:​​ Audio CFG influences color tone consistency across segments. Set this value to 3 to alleviate tonal variations.
-> - Sampling steps: If you want to generate a video fast, you can decrease the sampling steps to even 10 that will not hurt the lip synchronization accuracy, but affects the motion and visual quality. More sampling steps, better video quality.
-> - TeaCache accelerate:​​ The optimal range for `--teacache_thresh` is between 0.2 and 0.5. Increasing this value can further improve acceleration, but may also lead to a decline in the quality of the generated video.
+> - FusionX： While it enables faster inference and higher quality, FusionX LoRA exacerbates color shift over 1 minute and reduces ID preservation in videos.
+> - V2V generation: Enables unlimited length generation. The model mimics the original video's camera movement, though not identically. Using SDEdit improves camera movement accuracy significantly but introduces color shift and is best suited for short clips. Improvements for long video camera control are planned.
+> - I2V generation: Generates good results from a single image for up to 1 minute. Beyond 1 minute, color shifts become more pronounced. We are working on it. 
 
-#### Usage of MultiTalk
+
+#### Usage of InfiniteTalk
 ```
 --mode streaming: long video generation.
 --mode clip: generate short video with one chunk. 
