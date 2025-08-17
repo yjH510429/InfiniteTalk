@@ -13,7 +13,7 @@
 <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
 
-> **TL; DR:**  InfiniteTalk is an unlimited-length talking video generation​​ model that supports both video-to-video and image-to-video generation
+> **TL; DR:**  InfiniteTalk is an unlimited-length talking video generation​​ model that supports both audio-driven video-to-video and image-to-video generation
 
 <p align="center">
   <img src="assets/pipeline.png">
