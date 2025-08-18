@@ -105,7 +105,7 @@ sudo yum install ffmpeg ffmpeg-devel
 | --------------|-------------------------------------------------------------------------------|-------------------------------|
 | Wan2.1-I2V-14B-480P  |      🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)       | Base model
 | chinese-wav2vec2-base |      🤗 [Huggingface](https://huggingface.co/TencentGameMate/chinese-wav2vec2-base)          | Audio encoder
-| MeiGen-InfiniteTalk      |      🤗 [Huggingface]()              | Our audio condition weights
+| MeiGen-InfiniteTalk      |      🤗 [Huggingface](https://huggingface.co/MeiGen-AI/InfiniteTalk)              | Our audio condition weights
 
 Download models using huggingface-cli:
 ``` sh
