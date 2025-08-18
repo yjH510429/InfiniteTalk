@@ -29,8 +29,8 @@
 
 ## 🔥 Latest News
 
-* August 18, 2025: We release the [Technique-Report]() of **InfiniteTalk**. The Gradio and the [ComfyUI](https://github.com/MeiGen-AI/InfiniteTalk/tree/comfyui) branch have been released. 
-* August 18, 2025: We release the [project page]() of **InfiniteTalk** 
+* August 19, 2025: We release the [Technique-Report]() of **InfiniteTalk**. The Gradio and the [ComfyUI](https://github.com/MeiGen-AI/InfiniteTalk/tree/comfyui) branch have been released. 
+* August 19, 2025: We release the [project page]() of **InfiniteTalk** 
 
 
 ## ✨ Key Features
@@ -63,7 +63,7 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
 
 ## Video Demos
 
-### Video-to-video
+### Video-to-video (HQ videos can be found on [Google Drive]() )
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
