@@ -63,24 +63,23 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
 
 ## Video Demos
 
+
 ### Video-to-video (HQ videos can be found on [Google Drive]() )
+
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
       <td>
-          <video src="https://github.com/user-attachments/assets/db618611-bc43-445a-a0b8-84ff90a4d553" width="320" controls loop></video>
-      </td>
-      <td>
-          <video src="https://github.com/user-attachments/assets/4236595a-19c3-444c-9398-790a2dc0daba" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/04f15986-8de7-4bb4-8cde-7f7f38244f9f" width="320" controls loop></video>
       </td>
        <td>
-          <video src="https://github.com/user-attachments/assets/0c19a109-f38e-45ad-9f85-0ad010125d70" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/f2d8e965-69ca-4c17-b581-7cf22cd0ce9b" width="320" controls loop></video>
      </td>
      <td>
-          <video src="https://github.com/user-attachments/assets/99bb308a-66f8-444c-b8ff-cbb8e16b8e97" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/bc46a0a0-0813-433f-a9eb-b6a48a695139" width="320" controls loop></video>
      </td>
      <td>
-          <video src="https://github.com/user-attachments/assets/df0fc52c-3960-46fe-88c0-94e68eb3ebab" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/1500f72e-a096-42e5-8b44-f887fa8ae7cb" width="320" controls loop></video>
      </td>
   </tr>
 </table>
