@@ -98,7 +98,7 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
           <video src="https://github.com/user-attachments/assets/510e2648-82db-4648-aaf3-6542303dbe22" width="320" controls loop></video>
      </td>
      <td>
-          <video src="https://github.com/user-attachments/assets/130cac94-a07b-4fe8-a412-8a4d106cd153" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/27bb087b-866a-4300-8a03-3bbb4ce3ddf9" width="320" controls loop></video>
      </td>
      <td>
           <video src="" width="320" controls loop></video>
