@@ -114,12 +114,6 @@ huggingface-cli download TencentGameMate/chinese-wav2vec2-base --local-dir ./wei
 huggingface-cli download TencentGameMate/chinese-wav2vec2-base model.safetensors --revision refs/pr/1 --local-dir ./weights/chinese-wav2vec2-base
 ```
 
-#### 2. Link or Copy MultiTalk Model to Wan2.1-I2V-14B-480P Directory
-
-Link through:
-```
-
-```
 ### 🔑 Quick Inference
 
 Our model is compatible with both 480P and 720P resolutions. 
