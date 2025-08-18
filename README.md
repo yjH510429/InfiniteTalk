@@ -61,6 +61,51 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
 - [x] Gradio demo
 - [x] ComfyUI
 
+## Video Demos
+
+### Video-to-video
+
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <video src="https://github.com/user-attachments/assets/db618611-bc43-445a-a0b8-84ff90a4d553" width="320" controls loop></video>
+      </td>
+      <td>
+          <video src="https://github.com/user-attachments/assets/4236595a-19c3-444c-9398-790a2dc0daba" width="320" controls loop></video>
+      </td>
+       <td>
+          <video src="https://github.com/user-attachments/assets/0c19a109-f38e-45ad-9f85-0ad010125d70" width="320" controls loop></video>
+     </td>
+     <td>
+          <video src="https://github.com/user-attachments/assets/99bb308a-66f8-444c-b8ff-cbb8e16b8e97" width="320" controls loop></video>
+     </td>
+     <td>
+          <video src="https://github.com/user-attachments/assets/df0fc52c-3960-46fe-88c0-94e68eb3ebab" width="320" controls loop></video>
+     </td>
+  </tr>
+</table>
+
+### Image-to-video
+
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <video src="https://github.com/user-attachments/assets/7e4a4dad-9666-4896-8684-2acb36aead59" width="320" controls loop></video>
+      </td>
+      <td>
+          <video src="https://github.com/user-attachments/assets/f78af95a-13d2-46f4-ac41-6cb4633dd7e7" width="320" controls loop></video>
+      </td>
+       <td>
+          <video src="https://github.com/user-attachments/assets/331e4009-2872-48b7-81b2-d422f7cd08c5" width="320" controls loop></video>
+     </td>
+     <td>
+          <video src="https://github.com/user-attachments/assets/130cac94-a07b-4fe8-a412-8a4d106cd153" width="320" controls loop></video>
+     </td>
+     <td>
+          <video src="" width="320" controls loop></video>
+     </td>
+  </tr>
+</table>
 
 ## Quick Start
 
