@@ -217,7 +217,21 @@ torchrun --nproc_per_node=$GPU_NUM --standalone generate_infinitetalk.py \
     --save_file infinitetalk_res_multigpu
 ```
 
+##### 5) Multi-Person animation
 
+```
+python generate_infinitetalk.py \
+    --ckpt_dir weights/Wan2.1-I2V-14B-480P \
+    --wav2vec_dir 'weights/chinese-wav2vec2-base' \
+    --infinitetalk_dir weights/InfiniteTalk/multi/infinitetalk.safetensors \
+    --input_json examples/multi_example_image.json \
+    --size infinitetalk-480 \
+    --sample_steps 40 \
+    --num_persistent_param_in_dit 0 \
+    --mode streaming \
+    --motion_frame 9 \
+    --save_file infinitetalk_res_multiperson
+```
 
 
 #### 2. Run with FusioniX or Lightx2v(Require only 4~8 steps)
