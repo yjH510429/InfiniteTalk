@@ -64,7 +64,7 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
 ## Video Demos
 
 
-### Video-to-video (HQ videos can be found on [Google Drive]() )
+### Video-to-video (HQ videos can be found on [Google Drive](https://drive.google.com/drive/folders/1BNrH6GJZ2Wt5gBuNLmfXZ6kpqb9xFPjU?usp=sharing) )
 
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
