@@ -92,7 +92,7 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
           <video src="https://github.com/user-attachments/assets/7e4a4dad-9666-4896-8684-2acb36aead59" width="320" controls loop></video>
       </td>
       <td>
-          <video src="https://github.com/user-attachments/assets/5ff3607f-90ec-4eee-b964-9d5ee3028005" width="320" controls loop></video>
+          <video src="https://github.com/user-attachments/assets/bd6da665-f34d-4634-ae94-b4978f92ad3a" width="320" controls loop></video>
       </td>
        <td>
           <video src="https://github.com/user-attachments/assets/510e2648-82db-4648-aaf3-6542303dbe22" width="320" controls loop></video>
@@ -100,9 +100,22 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
      <td>
           <video src="https://github.com/user-attachments/assets/27bb087b-866a-4300-8a03-3bbb4ce3ddf9" width="320" controls loop></video>
      </td>
-     <td>
-          <video src="" width="320" controls loop></video>
+     
+  </tr>
+  <tr>
+      <td>
+          <video src="https://github.com/user-attachments/assets/3263c5e1-9f98-4b9b-8688-b3e497460a76" width="320" controls loop></video>
+      </td>
+      <td>
+          <video src="https://github.com/user-attachments/assets/5ff3607f-90ec-4eee-b964-9d5ee3028005" width="320" controls loop></video>
+      </td>
+       <td>
+          <video src="https://github.com/user-attachments/assets/e504417b-c8c7-4cf0-9afa-da0f3cbf3726" width="320" controls loop></video>
      </td>
+     <td>
+          <video src="https://github.com/user-attachments/assets/56aac91e-c51f-4d44-b80d-7d115e94ead7" width="320" controls loop></video>
+     </td>
+     
   </tr>
 </table>
 
