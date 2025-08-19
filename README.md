@@ -14,8 +14,8 @@
 <sup>*</sup>Equal Contribution
 <sup>&#9993;</sup>Corresponding Authors
 
-<a href=''><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href=''><img src='https://img.shields.io/badge/Technique-Report-red'></a>
+<a href='https://meigen-ai.github.io/InfiniteTalk/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='https://github.com/MeiGen-AI/InfiniteTalk/blob/main/assets/InfiniteTalk_paper.pdf'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
 <a href='https://huggingface.co/MeiGen-AI/InfiniteTalk'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
 
