@@ -33,8 +33,8 @@
 
 ## 🔥 Latest News
 
-* August 19, 2025: We release the [Technique-Report]() , weights, and code of **InfiniteTalk**. The Gradio and the [ComfyUI](https://github.com/MeiGen-AI/InfiniteTalk/tree/comfyui) branch have been released. 
-* August 19, 2025: We release the [project page]() of **InfiniteTalk** 
+* August 19, 2025: We release the [Technique-Report](https://github.com/MeiGen-AI/InfiniteTalk/blob/main/assets/InfiniteTalk_paper.pdf) , weights, and code of **InfiniteTalk**. The Gradio and the [ComfyUI](https://github.com/MeiGen-AI/InfiniteTalk/tree/comfyui) branch have been released. 
+* August 19, 2025: We release the [project page](https://meigen-ai.github.io/InfiniteTalk/) of **InfiniteTalk** 
 
 
 ## ✨ Key Features
