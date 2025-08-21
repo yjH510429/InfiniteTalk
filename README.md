@@ -200,7 +200,7 @@ Our model is compatible with both 480P and 720P resolutions.
 —-sample_text_guide_scale： When not using LoRA, the optimal value is 5. After applying LoRA, the recommended value is 1.
 —-sample_audio_guide_scale： When not using LoRA, the optimal value is 4. After applying LoRA, the recommended value is 2.
 —-sample_audio_guide_scale： When not using LoRA, the optimal value is 4. After applying LoRA, the recommended value is 2.
---max_frame_num: The max frame length of the generated video.
+--max_frame_num: The max frame length of the generated video, the default is 40 seconds(1000 frames).
 ```
 
 #### 1. Inference
