@@ -47,7 +47,8 @@ We propose **InfiniteTalk**​​, a novel sparse-frame video dubbing framework.
 
 
 ## 🌐 Community  Works
-- 
+- [ComfyUI](https://github.com/kijai/ComfyUI-WanVideoWrapper): Thanks for the comfyui support of [kijai](https://github.com/kijai). 
+
 
 
 ## 📑 Todo List
