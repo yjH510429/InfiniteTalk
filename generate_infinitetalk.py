@@ -83,6 +83,12 @@ def _parse_args():
         help="How many frames to be generated in one clip. The number should be 4n+1"
     )
     parser.add_argument(
+        "--max_frame_num",
+        type=int,
+        default=1000,
+        help="The max frame lenght of the generated video."
+    )
+    parser.add_argument(
         "--ckpt_dir",
         type=str,
         default=None,
@@ -630,7 +636,7 @@ def generate(args):
             audio_guide_scale=args.sample_audio_guide_scale,
             seed=args.base_seed,
             offload_model=args.offload_model,
-            max_frames_num=args.frame_num if args.mode == 'clip' else 1000,
+            max_frames_num=args.frame_num if args.mode == 'clip' else args.max_frame_num,
             color_correction_strength = args.color_correction_strength,
             extra_args=args,
             )
