@@ -140,7 +140,8 @@ pip install -U xformers==0.0.28 --index-url https://download.pytorch.org/whl/cu1
 pip install misaki[en]
 pip install ninja 
 pip install psutil 
-pip install packaging 
+pip install packaging
+pip install wheel
 pip install flash_attn==2.7.4.post1
 ```
 
